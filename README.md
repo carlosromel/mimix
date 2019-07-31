@@ -1,37 +1,69 @@
-## Welcome to GitHub Pages
+## Ola bem vindo ao meu teste
 
-You can use the [editor on GitHub](https://github.com/carlosromel/mimix/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+###Hoje eu irei ver se consigo progamar...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#E para isso farei um 30 fcoisas que gosto de fazermim...
 
-### Markdown
+1:Minha materia favorita é Ciências
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2:Minha materia que eu menos gosto é Português
 
-```markdown
-Syntax highlighted code block
+3:Meu professor favorito é o de História 
 
-# Header 1
-## Header 2
-### Header 3
+4:A professar que eu menos gosto é a de Português 
 
-- Bulleted
-- List
+5:O esporte que eu gosto porem não sei jogar é volêi
 
-1. Numbered
-2. List
+6:O jogo esportivo que eu mais gosto é Quaimada
 
-**Bold** and _Italic_ and `Code` text
+7:Já o de tabuleiro é Monopoly
 
-[Link](url) and ![Image](src)
-```
+8:De cartas é Uno e Truco 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+9:Se eu pudese escolher uma região do Brasil para nascer eu escolheria ou o Nordeste ou o Sul 
 
-### Jekyll Themes
+10:Prefiro frio
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlosromel/mimix/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+11:Depois do Inverno eu gosto do outono 
 
-### Support or Contact
+12:Se pudece escolher uma profição agora eu escolheria arquitetura ou desaing de roupas 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+13:Os estilos de música que mais gosto são:Funk,Sertanejo e Reggi 
+
+14:Uma das minhas cantoras favoritas é a Luiza Sonza 
+
+15:Outra é a Pablo Vittar
+
+16:Um dos meus cantores favoritos é o Jão
+
+17:Outro é o Projota 
+
+18:Mais um é o Tiago Iorc
+
+19:Minha cor favorita é preto
+
+20:Também gosto de Roxo
+
+21:Meu filme animado favorito é Enrolados 
+
+22:Minha princesa favorita é  Merida (NÃO É MÉRIDA)
+
+23:Meu príncepe favorito é o José Beserrra (Entendedores entenderão)
+
+24:Minha vilã favorita e a Gothel
+
+25:Meu vilão favorito é o Aids
+
+26:A minha série de filmes favorita é a de Decendentes
+
+27:Minha série favorita é Once Apon a Time 
+
+28: Minha série de livros favorita é a que conta a verdadeira história dos vilões da Disney
+
+29:Um dos meus Youtubers favoritos é o Imaginago 
+
+30:Umas das minha Youtubers favoritas é a Bibi Tatto 
+
+
+
+
