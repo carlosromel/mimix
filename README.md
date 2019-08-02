@@ -1,70 +1,91 @@
-## Ola bem vindo ao meu teste
+## oi aumentei os mes gostos(e organizei melhor tambbem
 
 Hoje eu irei ver se consigo progamar...
 
 E para isso farei um 30 coisas que gosto de fazer...
 
+*Escola 
 
-1:Minha materia favorita é Ciências
+Minha materia favorita é Ciências
 
-2:Minha materia que eu menos gosto é Português
+Minha materia que eu menos gosto é Português
 
-3:Meu professor favorito é o de História 
+Meu professor favorito é o de História 
 
-4:A professar que eu menos gosto é a de Português 
+A professar que eu menos gosto é a de Português 
 
-5:O esporte que eu gosto porem não sei jogar é volêi
+*Jogos
 
-6:O jogo esportivo que eu mais gosto é Quaimada
+O esporte que eu gosto porem não sei jogar é volêi
 
-7:Já o de tabuleiro é Monopoly
+O jogo esportivo que eu mais gosto é Quaimada
 
-8:De cartas é Uno e Truco 
+Já o de tabuleiro é Monopoly
 
-9:Se eu pudese escolher uma região do Brasil para nascer eu escolheria ou o Nordeste ou o Sul 
+De cartas é Uno e Truco
 
-10:Prefiro frio
+*Mudanças
 
-11:Depois do Inverno eu gosto do outono 
+Se eu pudese escolher uma região do Brasil para nascer eu escolheria ou o Nordeste ou o Sul 
 
-12:Se pudece escolher uma profição agora eu escolheria arquitetura ou desaing de roupas 
+Se eu pudese mudar a cor do meu cabelo eu trocaria para ruivo
 
-13:Os estilos de música que mais gosto são:Funk,Sertanejo e Reggi 
+Se eu pudese trocar de cor dos olhos eu trocaria para azuis 
 
-14:Uma das minhas cantoras favoritas é a Luiza Sonza 
+Se eu pudese trocar de cor de pele seria para moreno
 
-15:Outra é a Pablo Vittar
+*Preferencias
 
-16:Um dos meus cantores favoritos é o Jão
+Prefiro frio
 
-17:Outro é o Projota 
+Depois do Inverno eu gosto do outono 
 
-18:Mais um é o Tiago Iorc
+Se pudece escolher uma profição agora eu escolheria arquitetura ou desaing de roupas 
 
-19:Minha cor favorita é preto
+*Músicas
 
-20:Também gosto de Roxo
+Os estilos de música que mais gosto são:Funk,Sertanejo e Reggi 
 
-21:Meu filme animado favorito é Enrolados 
+Uma das minhas cantoras favoritas é a Luiza Sonza 
 
-22:Minha princesa favorita é  Merida (NÃO É MÉRIDA)
+Outra é a Pablo Vittar
 
-23:Meu príncepe favorito é o José Beserrra (Entendedores entenderão)
+Um dos meus cantores favoritos é o Jão
 
-24:Minha vilã favorita e a Gothel
+Outro é o Projota 
 
-25:Meu vilão favorito é o Aids
+Mais um é o Tiago Iorc
 
-26:A minha série de filmes favorita é a de Decendentes
+*Cor
 
-27:Minha série favorita é Once Apon a Time 
+Minha cor favorita é preto
 
-28: Minha série de livros favorita é a que conta a verdadeira história dos vilões da Disney
+Também gosto de Roxo
 
-29:Um dos meus Youtubers favoritos é o Imaginago 
+*Filmes/Series/Livros/Youtube
 
-30:Umas das minha Youtubers favoritas é a Bibi Tatto 
+Meu filme animado favorito é Enrolados 
 
+Minha princesa favorita é  Merida (NÃO É MÉRIDA)
 
+Meu príncepe favorito é o José Beserrra (Entendedores entenderão)
 
+Minha vilã favorita e a Gothel
 
+Meu vilão favorito é o Aids
+
+A minha série de filmes favorita é a de Decendentes
+
+Minha série favorita é Once Apon a Time 
+
+ Minha série de livros favorita é a que conta a verdadeira história dos vilões da Disney
+
+Um dos meus Youtubers favoritos é o Imaginago 
+
+Umas das minha Youtubers favoritas é a Bibi Tatto 
+
+Para mim o melhor casal do Youtube é o Len e a Nilce 
+______
+|     ' |\    /|
+|___  | | \  / |
+|     | |  \/  |
