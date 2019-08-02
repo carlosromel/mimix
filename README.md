@@ -1,4 +1,4 @@
-## oi aumentei os mes gostos(e organizei melhor tambem)
+## organizei e melhorei algumas coisas
 
 Hoje eu irei ver se consigo progamar...
 
