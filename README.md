@@ -1,8 +1,8 @@
-## oi aumentei os mes gostos(e organizei melhor tambbem
+## oi aumentei os mes gostos(e organizei melhor tambem)
 
 Hoje eu irei ver se consigo progamar...
 
-E para isso farei um 30 coisas que gosto de fazer...
+separei algumas coisas que gosto
 
 *Escola 
 
