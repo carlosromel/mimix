@@ -2,7 +2,7 @@
 
 Hoje eu irei ver se consigo progamar...
 
-separei algumas coisas que gosto
+Separei algumas coisas que gosto
 
 *Escola 
 
